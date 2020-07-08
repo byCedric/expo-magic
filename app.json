@@ -1,0 +1,17 @@
+{
+  "name": "magichq",
+  "displayName": "magichq",
+  "expo": {
+    "name": "magichq",
+    "slug": "magichq",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
